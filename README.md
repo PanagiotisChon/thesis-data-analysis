@@ -45,7 +45,7 @@ The thesis follows an end-to-end machine learning workflow:
 ```
 .
 ├── final_pipeline_updated.py     # Full pipeline: EDA → preprocessing → regression → clustering
-├── ΤΕΛΙΚΟ_ΚΕΙΜΕΝΟ.docx           # Final text of the thesis (in Greek)
+├── Project_Documentation.pdf     # Final text of the thesis (in Greek)
 ├── greecelistings.csv            # Dataset (download from Kaggle — see below)
 ├── requirements.txt              # Python dependencies                
 └── README.md                     # README
