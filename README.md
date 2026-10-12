@@ -1,5 +1,3 @@
-[🇬🇷 Ελληνικά](README.md) | 🇬🇧 English
-
 # 🏠 Residential Property Valuation Using Machine Learning Techniques
 
 Bachelor's thesis — **University of Piraeus**, School of Information and Communication Technologies, Department of Digital Systems.
