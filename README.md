@@ -79,8 +79,7 @@ The public **"Greece Listings"** dataset from [Kaggle](https://www.kaggle.com/) 
 
 **Main variables:** `res_sqr` (area), `construction_year`, `bedrooms`, `bathrooms`, `levels`, `location_region`, `location_name` (neighborhood), `status`, `energyclass`, `parking`, and binary amenities (`auto_heating`, `solar`, `cooling`, `safe_door`, `gas`, `fireplace`, `furniture`, `student`).
 
-> ⚠️ The file `greecelistings.csv` must be placed in the same folder as the script before running it.
-
+> ⚠️ The file `greecelistings.csv` is included in the repository and the script reads it from the same folder. The original source of the dataset is Kaggle (see above).
 ---
 
 ## ⚙️ Methodology
