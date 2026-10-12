@@ -1,0 +1,3 @@
+﻿cluster,n,mean_price,median_price,mean_sqr,mean_bedrooms,mean_bathrooms,mean_year,pct_parking,pct_fireplace
+1,7478,560422.51,410000.0,206.04,3.35,1.91,2003.73,34.0,76.0
+0,12040,175862.0,145000.0,88.68,1.95,1.1,1982.06,6.0,5.0
