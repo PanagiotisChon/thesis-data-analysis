@@ -202,8 +202,8 @@ A MAPE of ≈ 25% means that for a property worth €200,000 the prediction devi
 
 ```bash
 # 1. Clone the repository
-git clone <REPOSITORY_URL>
-cd <FOLDER_NAME>
+git clone https://github.com/PanagiotisChon/thesis-data-analysis.git
+cd thesis-data-analysis
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
